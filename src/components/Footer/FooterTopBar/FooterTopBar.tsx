@@ -24,7 +24,7 @@ export const FooterTopBar = () => {
                     className="footer-subhead u-h5"
                     style={{ paddingTop: "7px", paddingBottom: "7px" }}
                   >
-                    Nazca
+                    Elysium Earth
                   </div>
                   <p>
                     MeMe Global inc 121 West Dudley Town Road, Unit B Bloomfield
@@ -37,7 +37,7 @@ export const FooterTopBar = () => {
                   <div className="footer-title u-h5">PHONE</div>
                   <p>9150041899</p>
                   <div className="footer-title  u-h5">EMAIL</div>
-                  <p>customer@nazca.in</p>
+                  <p>customer@Elysium Earth.in</p>
                 </div>
               </div>
             </div>

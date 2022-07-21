@@ -11,7 +11,7 @@ export default function LogoWrapper() {
             src={logo}
             // width="100"
             // style={{ height: "200px" }}
-            alt="Nazca"
+            alt="ElysiumEarth"
           />
         </NavLink>
       </div>

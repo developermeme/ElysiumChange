@@ -72,13 +72,13 @@ export const LeftDrawer = () => {
   const socialIcons = [
     {
       icon: <Facebook />,
-      href: "https://www.facebook.com/Nazcafashions/",
+      // href: "https://www.facebook.com/Elysium Earthfashions/",
       name: "Facebook",
     },
 
     {
       icon: <Instagram />,
-      href: "https://www.instagram.com/nazcafashions/",
+      // href: "https://www.instagram.com/Elysium Earthfashions/",
       name: "Instagram",
     },
   ];

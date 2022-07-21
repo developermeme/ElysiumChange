@@ -49,7 +49,7 @@ export const ReferalCards = () => {
           <div className="opre-row u-h5 weburl">
             <img height={15} width={18} src={Globe} alt="Globe" />
             <span>
-              <a href="https:/nazca.in">https:/nazca.in</a>
+              <a href="https:/Elysium Earth.in">https:/Elysium Earth.in</a>
             </span>
           </div>
         </div>

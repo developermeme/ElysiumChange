@@ -3,10 +3,10 @@ import React from "react";
 export const ReturnsAndExchanges = () => {
   return (
     <div className="policy-content">
-      <div className="policy-head u-h3">Nazca RETURNS & EXCHANGES</div>
+      <div className="policy-head u-h3">Elysium Earth RETURNS & EXCHANGES</div>
 
       <p className="policy-text  u-h4">
-        You may return any purchased products from Nazca within 30 days of
+        You may return any purchased products from Elysium Earth within 30 days of
         when the order has been placed. It should be in new and original
         condition (not damaged or shabby-looking as a result of much use) may be
         returned within 30 days of when the order was placed from the website.

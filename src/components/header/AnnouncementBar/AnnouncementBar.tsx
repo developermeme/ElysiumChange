@@ -18,8 +18,11 @@ export const AnnouncementBar: FC<IProps> = (props: IProps) => {
             "marquee__text--right": position === "right",
           })}
         >
-          <span>PRE-ORDER NOW TO GET FLAT 50% OFF ON ANY STYLE.</span>
-          <span aria-hidden="true">
+          {/* <span>ELYSIUM EARTH</span> */}
+          {/* <span aria-hidden="true">
+            PRE-ORDER NOW TO GET FLAT 50% OFF ON ANY STYLE.
+          </span> */}
+          {/* <span aria-hidden="true">
             PRE-ORDER NOW TO GET FLAT 50% OFF ON ANY STYLE.
           </span>
           <span aria-hidden="true">
@@ -33,10 +36,7 @@ export const AnnouncementBar: FC<IProps> = (props: IProps) => {
           </span>
           <span aria-hidden="true">
             PRE-ORDER NOW TO GET FLAT 50% OFF ON ANY STYLE.
-          </span>
-          <span aria-hidden="true">
-            PRE-ORDER NOW TO GET FLAT 50% OFF ON ANY STYLE.
-          </span>
+          </span> */}
         </div>
       </div>
     </section>

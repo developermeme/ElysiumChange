@@ -7,7 +7,7 @@ export const TermsAndConditions = () => {
       <h4 className="policy-subhead u-h4">Last updated: July 24, 2021</h4>
       <p className="policy-text  u-h4">
         Please read these terms carefully before using Our Website Service. To
-        access and use of Nazca services and the Nazca website
+        access and use of Elysium Earth services and the Elysium Earth website
         <a href="www.meme-india.com/">www.meme-india.com/</a> including any of
         its content, is conditional on your agreement to these terms and
         conditions. You must read and accept all of the conditions restricted in
@@ -37,7 +37,7 @@ export const TermsAndConditions = () => {
         <li>Country refers to: ………….</li>
         <li>
           Company(referred to as either & “the Company”, “We”, “Us” or “Our” in
-          this Agreement) refers to Nazca.
+          this Agreement) refers to Elysium Earth.
         </li>
         <li>
           Device means any device that can access the Service such as a
@@ -56,7 +56,7 @@ export const TermsAndConditions = () => {
           Service.
         </li>
         <li>
-          Website refers to Nazca, accessible from
+          Website refers to Elysium Earth, accessible from
           <a href="www.meme-india.com">www.meme-india.com/</a>
         </li>
         <li>
@@ -256,7 +256,7 @@ export const TermsAndConditions = () => {
       </p>
       <h4 className="policy-subhead u-h5">By email: </h4>
       <p className="policy-text  u-h4">
-        By visiting this page on our website: [Nazca] (Nazca)
+        By visiting this page on our website: [Elysium Earth] (Elysium Earth)
       </p>
     </div>
   );

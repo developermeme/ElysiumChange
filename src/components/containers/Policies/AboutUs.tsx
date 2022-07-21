@@ -6,7 +6,7 @@ export const AboutUs = () => {
       <div className="policy-head u-h3">ABOUT US</div>
 
       <p className="policy-text  u-h4">
-        Nazca celebrates you and lets you enjoy every moment in life with
+        Elysium Earth celebrates you and lets you enjoy every moment in life with
         irresistible fashion in beautiful colors and prints- for more joy each
         and every day. We’re not experts, but we are a little further along in
         our journeys in some ways and behind in other ways. So we share our
@@ -16,7 +16,7 @@ export const AboutUs = () => {
       <p className="policy-text  u-h4">
         We offer you a collection of everything in our womenswear from casual to
         smart fashion. Whether you want to buy basic clothing or statement
-        pieces - find what you need in Nazca online shop.
+        pieces - find what you need in Elysium Earth online shop.
       </p>
       <p className="policy-text  u-h4">
         We are dedicated to present clothing and accessories that enable all

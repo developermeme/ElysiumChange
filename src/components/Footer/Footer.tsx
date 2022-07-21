@@ -160,7 +160,7 @@ function Footer() {
           <div>
             Copyright{" "}
             <a href="/" className="footer__link">
-              ©Nazca
+              ©Elysium Earth
             </a>
             , All Rights Reserved.
           </div>

@@ -3,7 +3,7 @@ import React from "react";
 function TermsOfService() {
   return (
     <div className="policy-content">
-      <div className="policy-head u-h3">Nazca Terms of Service</div>
+      <div className="policy-head u-h3">Elysium Earth Terms of Service</div>
       <h4 className="policy-subhead u-h4">Last updated: September 22, 2021</h4>
       <h4 className="policy-subhead u-h4">
         Please read these terms and conditions carefully before using Our
@@ -35,7 +35,7 @@ function TermsOfService() {
         </li>
         <li>
           <strong>Company </strong>(referred to as either & “the Company”, “We”,
-          “Us” or “Our” in this Agreement) refers to Nazca.
+          “Us” or “Our” in this Agreement) refers to Elysium Earth.
         </li>
         <li>
           <strong>Device </strong> means any device that can access the Service
@@ -56,8 +56,8 @@ function TermsOfService() {
           included, or made available by the Service.
         </li>
         <li>
-          <strong>Website</strong> refers to Nazca, accessible from
-          <a href="https://nazca.in/">https://nazca.in/</a>
+          <strong>Website</strong> refers to Elysium Earth, accessible from
+          <a href="https://Elysium Earth.in/">https://Elysium Earth.in/</a>
         </li>
         <li>
           <strong>You</strong> mean the individual accessing or using the
@@ -257,8 +257,8 @@ function TermsOfService() {
         contact us:
       </p>
       <ul>
-        <li>By email : contact@nazca.in</li>
-        <li>By visiting this page on our website : https://nazca.in/</li>
+        <li>By email : contact@Elysium Earth.in</li>
+        <li>By visiting this page on our website : https://Elysium Earth.in/</li>
         <li>By phone number : 9150041898</li>
       </ul>
     </div>

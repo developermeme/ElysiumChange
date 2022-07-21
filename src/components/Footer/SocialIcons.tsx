@@ -7,8 +7,8 @@ export const SocialIcons = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.instagram.com/nazcafashions/"
-          title="nazcafashions on Instagram"
+          href="https://www.instagram.com/Elysium Earthfashions/"
+          title="Elysium Earthfashions on Instagram"
         >
           <Instagram />
           <span className="icon__fallback-text">Instagram</span>
@@ -18,8 +18,8 @@ export const SocialIcons = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/Nazcafashions/"
-          title="nazcafashions on Facebook"
+          href="https://www.facebook.com/Elysium Earthfashions/"
+          title="Elysium Earthfashions on Facebook"
         >
           <Facebook />
           <span className="icon__fallback-text">Facebook</span>

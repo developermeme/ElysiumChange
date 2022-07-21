@@ -3,10 +3,10 @@ import React from "react";
 export const ShippingPolicy = () => {
   return (
     <div className="policy-content">
-      <div className="policy-head u-h3">Nazca Shipping Policy</div>
+      <div className="policy-head u-h3">Elysium Earth Shipping Policy</div>
 
       <p className="policy-text  u-h4">
-        Nazca ("we" and "us") is the operator of (https://nazca.in/)
+        Elysium Earth ("we" and "us") is the operator of (https://Elysium Earth.in/)
         ("Website"). By acing an order through this online website you will
         acknowledge the terms below. These policies are conducted to ensure both
         parties are aware of and agree upon these arrangements to mutually
@@ -24,7 +24,7 @@ export const ShippingPolicy = () => {
       </p>
       <div className="policy-subhead u-h4">2. Shipment Processing Time</div>
       <p className="policy-text  u-h4">
-        Nazca’s all orders proceed within 2-3 business days. Orders are not
+        Elysium Earth’s all orders proceed within 2-3 business days. Orders are not
         shipped or delivered on weekends or holidays. If we are experiencing a
         high volume of orders, shipments may be held up by few days. ease wait
         and keep patience for additional days in transit for delivery. If there
@@ -43,7 +43,7 @@ export const ShippingPolicy = () => {
         <strong>(Return Due To Change of Mind/Cancellation)</strong>
       </p>
       <p className="policy-text  u-h4">
-        Nazca's team will happily accept returns due to change of mind as long
+        Elysium Earth's team will happily accept returns due to change of mind as long
         as a request to return is received by us within 7 days of receipt of the
         item and are returned to us in original packaging, unused, and can be
         resold condition. If an order has already been dispatched, ease refer to
@@ -53,7 +53,7 @@ export const ShippingPolicy = () => {
         required to arrange their shipping. Once returns are received and
         accepted, refunds will be processed to our valuable customer's payment
         source. We will notify you once everything has been cometed by us
-        through email. (Nazca) will refund the value of the goods returned but
+        through email. (Elysium Earth) will refund the value of the goods returned but
         will NOT refund the value of any shipping charges.
       </p>
       <div className="policy-subhead u-h4">5. Delivery Terms</div>
@@ -79,7 +79,7 @@ export const ShippingPolicy = () => {
           <p className="policy-text  u-h4 ">
             Orders aced before (Time) GMT+5:30 will be dispatched the same day,
             otherwise, within the next business day. <br />
-            Nazca's warehouse operates from Monday to Friday during standard
+            Elysium Earth's warehouse operates from Monday to Friday during standard
             business hours, except on national holidays and also at which time
             the warehouse will be closed. In these occurrences, we take steps to
             ensure shipment delays will be kept to a minimum.
@@ -158,7 +158,7 @@ export const ShippingPolicy = () => {
       </p>
 
       <p className="policy-text  u-h4">
-        Please email us at https://nazca.in/list.
+        Please email us at https://Elysium Earth.in/list.
       </p>
     </div>
   );

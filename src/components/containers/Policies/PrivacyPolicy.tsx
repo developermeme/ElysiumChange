@@ -2,9 +2,9 @@ export const PrivacyPolicy = () => {
   return (
     <div className="policy-content">
       <div className="policy-head u-h3">PRIVACY POLICY</div>
-      <h4 className="policy-subhead u-h4">What is Nazca?</h4>
+      <h4 className="policy-subhead u-h4">What is Elysium Earth?</h4>
       <div className="policy-subhead u-h5">
-        Nazca: This Website and its Legal Policies
+        Elysium Earth: This Website and its Legal Policies
       </div>
       <div className="policy-text  u-h4">
         ( Please read these Terms of Use carefully before using our Platforms. )
@@ -30,7 +30,7 @@ export const PrivacyPolicy = () => {
         For the purposes of this Privacy Policy <span className="u-h3">:</span>
       </div>
       <p className="policy-text  u-h4">
-        The brand Nazca Jewellery (also known as “OM”) is held by the company
+        The brand Elysium Earth Jewellery (also known as “OM”) is held by the company
         name……….address…….
       </p>
 
@@ -62,7 +62,7 @@ export const PrivacyPolicy = () => {
           example, the duration of a page visit).
         </li>
         <li>
-          Website refers to Nazca, accessible from the website
+          Website refers to Elysium Earth, accessible from the website
           <a href="www.meme-india.com/">(www.meme-india.com/)</a>.
         </li>
         <li>
@@ -83,7 +83,7 @@ export const PrivacyPolicy = () => {
         registration process, you will be asked to provide personal information
         about yourself (which includes your name, address, date of birth, email
         and phone number). By entering your details in the required fields, you
-        allow Nazca to provide you with the services you select.
+        allow Elysium Earth to provide you with the services you select.
       </p>
 
       <ul>
@@ -98,7 +98,7 @@ export const PrivacyPolicy = () => {
           training, and improvement purposes.
         </li>
         <li>
-          If you choose to interact with Nazca through a social media platform
+          If you choose to interact with Elysium Earth through a social media platform
           or other third party services we will collect the information you have
           provided to us through that platform.
         </li>
@@ -508,8 +508,8 @@ export const PrivacyPolicy = () => {
         By visiting this page on our website:-
       </p>
       <p className="policy-text  u-h4">
-        <a href="https://www.instagram.com/nazcafashions/">
-          https://www.instagram.com/nazcafashions/
+        <a href="https://www.instagram.com/Elysium Earthfashions/">
+          https://www.instagram.com/Elysium Earthfashions/
         </a>
       </p>
     </div>
